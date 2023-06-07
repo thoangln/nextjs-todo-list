@@ -9,6 +9,7 @@ export default function Home() {
   console.log({ todoList });
   console.log(2);
   console.log(3);
+  console.log(4);
 
   const state = {
     options: {
